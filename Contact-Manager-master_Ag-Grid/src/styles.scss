@@ -1,0 +1,11 @@
+// @import "~ag-grid-community/dist/styles/ag-grid.css";
+// @import "~ag-grid-community/dist/styles/ag-theme-balham.css";
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+$ag-icons-path: "../node_modules/ag-grid-community/src/styles/ag-theme-balham/icons/";
+
+
+ @import "../node_modules/ag-grid-community/src/styles/ag-grid.scss";
+ @import "../node_modules/ag-grid-community/src/styles/ag-theme-material/sass/ag-theme-material.scss";
+
+
+
